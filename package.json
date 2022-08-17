@@ -1,7 +1,6 @@
 {
-  "name": "puneet-question",
+  "name": "savemycode",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "start": "node app",
@@ -10,7 +9,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
-    "pg": "^8.7.1"
-  }
+    "express": "^4.18.1",
+    "pg": "^8.7.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourexodus/heroku.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourexodus/heroku/issues"
+  },
+  "homepage": "https://github.com/yourexodus/heroku#readme",
+  "description": ""
 }
