@@ -17,7 +17,7 @@ app.get('/', (req, res) => {
     console.log('response', response)
 
     if (err) {
-      return res.send(`test2 expcetion was found: ${err}`);
+      return res.send(`An expcetion was found: ${err}`);
     }
     return response
   });
