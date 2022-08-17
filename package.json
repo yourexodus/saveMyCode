@@ -6,7 +6,7 @@
     "start": "node app",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "MFrancis",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1",
@@ -14,11 +14,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourexodus/heroku.git"
+    "url": "git+https://github.com/yourexodus/saveMyCode.git"
   },
   "bugs": {
-    "url": "https://github.com/yourexodus/heroku/issues"
+    "url": "https://github.com/yourexodus/saveMyCode/issues"
   },
-  "homepage": "https://github.com/yourexodus/heroku#readme",
-  "description": ""
+  "homepage": "https://github.com/yourexodus/saveMyCode#readme",
+  "description": "\"# savemyCode\""
 }
